@@ -12,7 +12,7 @@ SwiftAccountBook Repository입니다! 이 프로젝트는 서울과학기술대�
 
 애플리케이션의 아이콘 디자인은 `AppIcon.appiconset` 디렉토리에서 확인할 수 있습니다. 이 세트에는 iOS 앱 개발에 필요한 모든 아이콘 크기와 사양이 포함되어 있어, 다양한 기기에서 활용될 수 있습니다.
 
-![앱 아이콘](/screenshots/AppIcon.png)
+![앱 아이콘](/screenshots/AppIcon.png)
 
 ## 추가 자료
 
