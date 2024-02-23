@@ -12,6 +12,8 @@ SwiftAccountBook Repository입니다! 이 프로젝트는 서울과학기술대�
 
 애플리케이션의 아이콘 디자인은 `AppIcon.appiconset` 디렉토리에서 확인할 수 있습니다. 이 세트에는 iOS 앱 개발에 필요한 모든 아이콘 크기와 사양이 포함되어 있어, 다양한 기기에서 활용될 수 있습니다.
 
+![앱 아이콘](/screenshots/AppIcon.png)
+
 ## 추가 자료
 
 프로젝트에 대한 보다 심층적인 설명과 안내를 원하신다면 다음 유튜브 링크를 참조해주세요:
@@ -22,7 +24,13 @@ SwiftAccountBook Repository입니다! 이 프로젝트는 서울과학기술대�
 
 ## 앱 스크린샷
 
-커뮤니티의 기여를 환영합니다! SwiftAccountBook 프로젝트에 기여하고 싶으시다면, 저장소를 포크하고 변경 사항을 만든 후 풀 리퀘스트를 제출해주세요.
+`SwiftAccountBook` 애플리케이션의 주요 화면 스크린샷입니다.
+
+![로그인 화면](/screenshots/SignIn_view.png)
+![회원 가입](/screenshots/SignUp_view.png)
+![메인 화면](/screenshots/Main_view.png)
+![수입 지출 기록](/screenshots/AddRecord_view.png)
+![설정 및 로그아웃](/screenshots/Setting_view.png)
 
 
 ---
